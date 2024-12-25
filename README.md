@@ -13,9 +13,6 @@ This project focuses on detecting anomalies in datasets using various machine le
   - `model.py`: Implementation of models like Isolation Forest, One-Class SVM, Autoencoders, and Variational Autoencoders.
   - `__init__.py`: Initializes the models package.
 
-- `notebooks/`: Contains Jupyter notebooks for analysis.
-  - `exploratory_data_analysis.ipynb`: Notebook for exploratory data analysis on sensor data.
-
 - `src/`: Contains source code for data processing, training, and evaluation.
   - `data_preprocessing.py`: Functions for data normalization, scaling, and windowing.
   - `train.py`: Responsible for training the models and saving them.
