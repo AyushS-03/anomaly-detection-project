@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Refer to the Jupyter notebook in the `notebooks/` directory for exploratory data analysis and insights into the sensor data. The models can be imported from the `models/` package for further experimentation and deployment.
+The models can be imported from the `models/` package for further experimentation and deployment.
 
 ## Contributing
 
